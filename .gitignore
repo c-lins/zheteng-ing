@@ -1,0 +1,22 @@
+# Ignore target file with special suffix
+*.ipr
+*.iws
+*.iml
+*.class
+*.log
+
+# Ignore target directory.Don't ignore target files.
+out/
+.idea/
+target/
+logs/
+log/
+
+
+# Ignore package files #
+*.jar
+*.war
+*.ear
+*.project
+*.classpath
+.setting/
